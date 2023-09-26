@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Interface\bin\Debug\net7.0\Interface.exe
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Interface\bin\Debug\net7.0\Interface.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Interface\bin\Debug\net7.0\Interface.runtimeconfig.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Interface\bin\Debug\net7.0\Interface.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Interface\bin\Debug\net7.0\Interface.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Interface\obj\Debug\net7.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Interface\obj\Debug\net7.0\Interface.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Interface\obj\Debug\net7.0\Interface.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Interface\obj\Debug\net7.0\Interface.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Interface\obj\Debug\net7.0\Interface.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Interface\obj\Debug\net7.0\refint\Interface.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Interface\obj\Debug\net7.0\Interface.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Interface\obj\Debug\net7.0\Interface.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\orietacaoObjeto\Interface\obj\Debug\net7.0\ref\Interface.dll
